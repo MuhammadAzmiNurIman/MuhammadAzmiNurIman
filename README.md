@@ -63,7 +63,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
 ### Featured Project
 
   <a href="https://github.com/USERNAME/MuhammadAzmiNurIman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=MuhammadAzmiNurIman&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=MuhammadAzmiNurIman&theme=dark">
   </a>
   <a href="https://github.com/USERNAME/Incident-Handling">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Incident-Handling&theme=dark">
