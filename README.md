@@ -30,7 +30,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=maroongold&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&show_icons=true&theme=default&cache_seconds=86400)
 
 <!---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
@@ -40,8 +40,8 @@ I am passionate about creating clean architecture, optimizing performance, and d
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satriabahari&theme=maroongold" alt="GitHub Streak" /></a>
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&card_width=495&langs_count=7&layout=compact&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=compact&cache_seconds=86400)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&langs_count=7&layout=compact&theme=maroongold)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&layout=compact)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
