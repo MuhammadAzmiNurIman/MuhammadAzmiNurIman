@@ -81,5 +81,18 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/output/pacman-contribution-graph.svg" width="700"/>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph-dark.svg?raw=true"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true"
+    >
+    <img 
+      src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" 
+      width="700"
+    >
+  </picture>
 </p>
