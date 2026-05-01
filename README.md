@@ -3,22 +3,34 @@
   <b>Backend Developer • Laravel Enthusiast</b>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 📊 Dashboard Overview
+## 🧑‍💻 About Me
+💡 Fresh Graduate Universitas Negeri Malang  
+🚀 Fokus pada Backend Development (Laravel & API)  
+⚡ Berpengalaman membangun REST API & sistem manajemen  
+📚 Sedang belajar System Design & Scalable Backend  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAzmiNurIman&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAzmiNurIman&theme=tokyonight&utcOffset=7" />
-</p>
+---
+
+## 📊 Profile Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAzmiNurIman&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAzmiNurIman&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAzmiNurIman&theme=tokyonight" />
+</p>
+
 ---
 
-## 🔥 Contributions
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
@@ -26,51 +38,47 @@
 
 ---
 
-## 💻 Tech Stack & Languages
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### 💻 Backend
+![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-1f2937?style=for-the-badge&logo=laravel)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3"/>
-</p>
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-1f2937?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1f2937?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind-1f2937?style=for-the-badge&logo=tailwindcss)
 
----
-
-## 📂 Notable Projects (Auto Highlight)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=LSPMBK&theme=tokyonight&hide_border=true"/>
-</p>
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-</p>
+🔹 **Incident Handling System**  
+→ Sistem manajemen insiden berbasis Laravel  
+
+🔹 **Automation with Puppeteer**  
+→ Automasi scraping & task berbasis JavaScript  
+
+🔹 **E-Commerce API (Laravel Lumen)**  
+→ REST API dengan autentikasi & payment integration  
 
 ---
 
-## 🧑‍💻 About Me
+## 📫 Connect With Me
 
-💡 Fresh Graduate Universitas Negeri Malang  
-🚀 Fokus pada Backend Development (Laravel & REST API)  
-⚡ Berpengalaman membangun sistem manajemen & API  
-📚 Sedang belajar System Design & Scalable Backend  
+<p align="center">
+  <a href="https://github.com/MuhammadAzmiNurIman">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
