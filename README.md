@@ -42,6 +42,6 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&card_width=495&langs_count=7&layout=compact&theme=maroongold)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MuhammadAzmiNurIman&langs_count=7&layout=compact&theme=maroongold)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&langs_count=7&layout=compact&theme=maroongold)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
