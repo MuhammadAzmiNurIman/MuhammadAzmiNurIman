@@ -12,15 +12,15 @@ I am passionate about creating clean architecture, optimizing performance, and d
 [![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=GitHub%20Followers)](https://github.com/MuhammadAzmiNurIman)
 
 ### Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
+![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)
 
 ### Other Tech Stacks
 
-![My Skills](https://skillicons.dev/icons?perline=9&i=html,css3,bootstrap,tailwind,js,vite,nodejs,express,php,laravel,reactjs,prisma,mysql,postgres,supabase)
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,tailwind,js,vite,nodejs,express,php,laravel,prisma,mysql,postgres)
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,git)
 <!--
 
 ### Others
