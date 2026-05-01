@@ -3,34 +3,20 @@
   <b>Backend Developer • Laravel Enthusiast</b>
 </p>
 
+---
+
+## 📊 Dashboard Overview
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/📦%20Repositories-19-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20Stars-0-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Followers-1-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⏳%20Years%20Active-4-0d1117?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-💡 Fresh Graduate Universitas Negeri Malang  
-🚀 Fokus pada Backend Development (Laravel & API)  
-⚡ Berpengalaman membangun REST API & sistem manajemen  
-📚 Sedang belajar System Design & Scalable Backend  
-
----
-
-## 📊 Profile Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAzmiNurIman&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAzmiNurIman&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAzmiNurIman&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Activity
+## 🔥 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
@@ -38,46 +24,38 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Backend
-![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-1f2937?style=for-the-badge&logo=laravel)
-
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-1f2937?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1f2937?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-1f2937?style=for-the-badge&logo=tailwindcss)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql)
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Incident Handling System**  
-→ Sistem manajemen insiden berbasis Laravel  
-
-🔹 **Automation with Puppeteer**  
-→ Automasi scraping & task berbasis JavaScript  
-
-🔹 **E-Commerce API (Laravel Lumen)**  
-→ REST API dengan autentikasi & payment integration  
-
----
-
-## 📫 Connect With Me
+## 💻 Tech Stack & Languages
 
 <p align="center">
-  <a href="https://github.com/MuhammadAzmiNurIman">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blade-0d1117?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5"/>
+</p>
+
+---
+
+## 📂 Notable Projects
+
+| Project | Description |
+|--------|------------|
+| 🚀 Incident-Handling | Sistem manajemen insiden berbasis Laravel |
+| 🤖 Automation-Puppeteer | Automasi scraping & task |
+| 🛒 E-Commerce API | REST API Laravel Lumen |
+| 🌐 PetaWebgis | Project Web GIS |
+| ⚙️ LSPMBK | Sistem internal project |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
