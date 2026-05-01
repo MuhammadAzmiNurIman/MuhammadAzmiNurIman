@@ -44,4 +44,4 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MuhammadAzmiNurIman&langs_count=7&layout=compact&theme=maroongold)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
