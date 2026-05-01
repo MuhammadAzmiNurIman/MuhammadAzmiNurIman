@@ -30,8 +30,18 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&show_icons=true&theme=default&cache_seconds=86400)
-
+<p align="center">
+  <a href="https://github.com/MuhammadAzmiNurIman">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="MuhammadAzmiNurIman's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=MuhammadAzmiNurIman&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MuhammadAzmiNurIman's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=MuhammadAzmiNurIman&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MuhammadAzmiNurIman's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=nightowl&radius=10" alt="MuhammadAzmiNurIman's Activity Graph" />
+</p>
 <!---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
 
