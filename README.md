@@ -67,7 +67,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph-dark.svg?raw=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true">
-    <img src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" width="700">
+    <img src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" width="1000">
   </picture>
 </p>
 
