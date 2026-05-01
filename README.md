@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Muhammad+Azmi+Nur+Iman;Backend+Developer+%7C+Laravel+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Muhammad+Azmi+Nur+Iman;Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3"/>
@@ -65,7 +66,7 @@
 <h2 align="center">💻 Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=donut&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
 </p>
 
 <br>
@@ -74,28 +75,17 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=LSPMBK&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=LSPMBK&theme=tokyonight"/>
 </p>
 
 <br>
 
-<!-- ABOUT -->
-<h2 align="center">🧑‍💻 About Me</h2>
-
-<p align="center">
-Fresh Graduate Universitas Negeri Malang <br>
-Fokus Backend Development (Laravel & REST API) <br>
-Berpengalaman membangun sistem manajemen & API <br>
-Sedang belajar System Design & Scalable Backend
-</p>
-
-<br>
 
 <!-- CONTACT -->
 <h2 align="center">📫 Connect</h2>
@@ -111,6 +101,7 @@ Sedang belajar System Design & Scalable Backend
 
 <br>
 
-<p align="center">
-  ⚡ Building scalable backend systems with clean architecture
-</p>
+
+
+
+
