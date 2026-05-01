@@ -45,7 +45,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&layout=compact)
 
 <!-- PACMAN AUTO DARK/LIGHT -->
-<h2 align="center">🎮 Contribution Game</h2>
+### Contribution Game
 
 <p align="center">
   <picture>
