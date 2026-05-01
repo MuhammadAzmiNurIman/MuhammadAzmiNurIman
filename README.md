@@ -60,6 +60,14 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&layout=compact) -->
 
+### Featured Project
+  <a href="https://github.com/MuhammadAzmiNurIman/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=repo1&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/MuhammadAzmiNurIman/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=repo2&theme=tokyonight"/>
+  </a>
+
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
 
