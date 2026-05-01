@@ -32,10 +32,10 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&layout=compact&theme=nightowl"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://streak-stats.demolab.com/?user=MuhammadAzmiNurIman&theme=nightowl"/>
     </td>
   </tr>
