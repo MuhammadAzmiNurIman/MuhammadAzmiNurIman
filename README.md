@@ -62,10 +62,10 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Featured Project
   <a href="https://github.com/MuhammadAzmiNurIman/govind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&theme=tokyonight"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
   </a>
   <a href="https://github.com/MuhammadAzmiNurIman/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=repo2&theme=tokyonight"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=repo2&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
   </a>
 
 <!-- PACMAN AUTO DARK/LIGHT -->
