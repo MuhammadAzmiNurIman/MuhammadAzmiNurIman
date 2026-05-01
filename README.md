@@ -65,24 +65,40 @@ I am passionate about creating clean architecture, optimizing performance, and d
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td style="border:none; padding:10px;">
-      <h3 align="center">🌐 Govindabra Enterprise</h3>
-      <p align="center">
-        Company profile website with scalable backend architecture.
-      </p>
-      <p align="center">
-        <a href="https://govindabraenterprise.com/">
-          🔗 Live Demo
-        </a>
-      </p>
-    </td>
-    <td style="border:none; padding:0;">
       <a href="https://github.com/MuhammadAzmiNurIman/govind">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&theme=tokyonight"/>
+      </a>
+    </td>
+    <td style="border:none; padding:10px;">
+      <a href="https://github.com/MuhammadAzmiNurIman/Incident-Handling">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight"/>
+      </a>
+    </td>
+    <td style="border:none; padding:10px;">
+      <a href="https://github.com/MuhammadAzmiNurIman/PetaWebgis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none; padding:10px;">
+      <a href="https://github.com/MuhammadAzmiNurIman/Automation-and-Puppeteer-Day-36">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight"/>
+      </a>
+    </td>
+    <td style="border:none; padding:10px;">
+      <a href="https://github.com/MuhammadAzmiNurIman/coba">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=coba&theme=tokyonight"/>
+      </a>
+    </td>
+    <td style="border:none; padding:10px;">
+      <a href="https://github.com/MuhammadAzmiNurIman/hackathon2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=hackathon2&theme=tokyonight"/>
       </a>
     </td>
   </tr>
 </table>
-
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
 
