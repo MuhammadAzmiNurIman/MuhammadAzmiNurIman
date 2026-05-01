@@ -30,7 +30,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Statistics
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&layout=compact&theme=nightowl"/>
