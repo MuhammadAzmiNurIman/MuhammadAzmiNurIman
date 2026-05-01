@@ -1,11 +1,10 @@
-<h1 align="center">Muhammad Azmi Nur Iman</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Azmi+Nur+Iman!;" />
+</h1>
 <p align="center">
   <b>Backend Developer • Laravel Enthusiast</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
