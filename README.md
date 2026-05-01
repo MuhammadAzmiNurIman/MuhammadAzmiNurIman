@@ -64,22 +64,24 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td style="border:none;">
-      <a href="https://govindabraenterprise.com/">
-        <img width="100%" src="https://api.microlink.io/?url=https://govindabraenterprise.com/&screenshot=true&meta=false&embed=screenshot.url"/>
-      </a>
+    <td style="border:none; padding:10px;">
+      <h3 align="center">🌐 Govindabra Enterprise</h3>
+      <p align="center">
+        Company profile website with scalable backend architecture.
+      </p>
+      <p align="center">
+        <a href="https://govindabraenterprise.com/">
+          🔗 Live Demo
+        </a>
+      </p>
     </td>
-    <td style="border:none;">
+    <td style="border:none; padding:0;">
       <a href="https://github.com/MuhammadAzmiNurIman/govind">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&theme=tokyonight"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
       </a>
     </td>
   </tr>
 </table>
-
-<p>
-  🌐 <b>Govindabra Enterprise</b> — Company profile website with clean architecture and scalable backend system.
-</p>
 
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
