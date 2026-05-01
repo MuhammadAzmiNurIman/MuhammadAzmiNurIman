@@ -62,16 +62,16 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Featured Project
 
-<table style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td style="border:none; padding:0;">
+    <td style="border:none;">
       <a href="https://govindabraenterprise.com/">
-        <img width="100%" src="https://image.thum.io/get/width/800/https://govindabraenterprise.com/" />
+        <img width="100%" src="https://api.microlink.io/?url=https://govindabraenterprise.com/&screenshot=true&meta=false&embed=screenshot.url"/>
       </a>
     </td>
-    <td style="border:none; padding:0;">
+    <td style="border:none;">
       <a href="https://github.com/MuhammadAzmiNurIman/govind">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&theme=tokyonight"/>
       </a>
     </td>
   </tr>
