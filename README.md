@@ -1,53 +1,51 @@
-<hr>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&text=Hi,%20I'm%20Muhammad%20Azmi%20Nur%20Iman&fontSize=40&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Backend%20Developer%20%7C%20Laravel%20Enthusiast&descSize=20&descAlignY=70&section=header" />
 
-<br>
+I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang with a strong focus on backend development. I specialize in building RESTful APIs and backend systems using Laravel, with experience in developing scalable and efficient applications.
 
-<p align="center">
-I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang focused on backend development.<br>
-Experienced in building REST API using Laravel and designing scalable backend systems.
-</p>
+I am passionate about creating clean architecture, optimizing performance, and designing systems that are maintainable and reliable. Currently, I am exploring system design and scalable backend architecture to enhance my development skills further.
 
-<br>
+[![Mail Badge](https://img.shields.io/badge/-your_email@gmail.com-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-MuhammadAzmiNurIman-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadAzmiNurIman)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=white)](#)
 
-<p align="center">
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MuhammadAzmiNurIman">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman)
+[![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=Followers)](https://github.com/MuhammadAzmiNurIman)
 
-<br>
+---
 
-<h3 align="center">🚀 Tech Stack</h3>
+### 🚀 Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,tailwind"/>
-</p>
+---
 
-<br>
+### 🧩 Other Tech Stacks
+![My Skills](https://skillicons.dev/icons?perline=8&i=html,css,tailwind,bootstrap,react,nodejs,express,python)
 
-<h3 align="center">📊 Statistics</h3>
+---
+
+### 🛠 Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+---
+
+### 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=tokyonight&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<br>
+---
 
-<h3 align="center">🔥 Activity</h3>
+### 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<br>
+---
 
-<h3 align="center">🎮 Contribution</h3>
+### 🎮 Contribution Game
 
 <p align="center">
   <picture>
@@ -57,16 +55,22 @@ Experienced in building REST API using Laravel and designing scalable backend sy
   </picture>
 </p>
 
-<br>
+---
 
-<h3 align="center">🚀 Projects</h3>
+### 🚀 Featured Projects
 
-<p align="center">
-Blog CMS • Incident Handling • Puppeteer Automation • WebGIS
-</p>
+- 🔹 Blog CMS (Laravel)  
+  https://github.com/MuhammadAzmiNurIman/BlogCMS_Day27  
 
-<br>
+- 🔹 Incident Handling System  
+  https://github.com/MuhammadAzmiNurIman/Incident-Handling  
+
+- 🔹 Automation Puppeteer  
+  https://github.com/MuhammadAzmiNurIman/Automation-and-Puppeteer-Day-36  
+
+- 🔹 WebGIS Project  
+  https://github.com/MuhammadAzmiNurIman/PetaWebgis  
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
-
-<hr>
