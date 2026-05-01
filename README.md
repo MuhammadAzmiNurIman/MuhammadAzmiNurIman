@@ -60,6 +60,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&layout=compact) -->
 
+<!--
 ### Featured Project
 
   <a href="https://github.com/USERNAME/MuhammadAzmiNurIman">
@@ -73,7 +74,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
   </a>
   <a href="https://github.com/USERNAME/Automation-and-Puppeteer-Day-36">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Automation-and-Puppeteer-Day-36&theme=dark">
-  </a>
+  </a> -->
 
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
