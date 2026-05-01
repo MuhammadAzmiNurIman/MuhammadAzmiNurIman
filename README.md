@@ -75,13 +75,13 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=BlogCMS_Day27&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=LSPMBK&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
