@@ -30,10 +30,16 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Statistics
 
-<a href="https://github.com/MuhammadAzmiNurIman">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="MuhammadAzmiNurIman's GitHub Stats" />
-</a>
-<img src="https://streak-stats.demolab.com/?user=MuhammadAzmiNurIman&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MuhammadAzmiNurIman's GitHub Streak" width="49%" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&layout=compact&theme=nightowl"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=MuhammadAzmiNurIman&theme=nightowl"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 <p align="center">
