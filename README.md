@@ -12,15 +12,15 @@ I am passionate about creating clean architecture, optimizing performance, and d
 [![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=Followers)](https://github.com/MuhammadAzmiNurIman)
 
 
-🚀 Core Tech Stacks
+###🚀 Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js)
 
 
-🧩 Other Tech Stacks
+###🧩 Other Tech Stacks
 ![My Skills](https://skillicons.dev/icons?perline=8&i=html,css,tailwind,bootstrap,react,nodejs,express,python)
 
 
-🛠 Tools
+###🛠 Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
