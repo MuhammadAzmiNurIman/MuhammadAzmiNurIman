@@ -23,27 +23,6 @@
 
 <br>
 
-<!-- CONTRIBUTION GRAPH -->
-<h2 align="center">🔥 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<br>
-
-<!-- PACMAN AUTO DARK/LIGHT -->
-<h2 align="center">🎮 Contribution Game</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true">
-    <img src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" width="700">
-  </picture>
-</p>
-
-<br>
 
 <!-- TECH STACK -->
 <h2 align="center">🛠 Tech Stack</h2>
@@ -86,6 +65,18 @@
 
 <br>
 
+<!-- PACMAN AUTO DARK/LIGHT -->
+<h2 align="center">🎮 Contribution Game</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true">
+    <img src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" width="700">
+  </picture>
+</p>
+
+<br>
 
 <!-- CONTACT -->
 <h2 align="center">📫 Connect</h2>
