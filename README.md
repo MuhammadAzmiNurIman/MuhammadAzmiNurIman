@@ -30,12 +30,12 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 ### Statistics
 
-<table style="border: none; border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&layout=compact&theme=nightowl"/>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadAzmiNurIman&theme=nightowl"/>
     </td>
-    <td style="border: none;">
+    <td>
       <img src="https://streak-stats.demolab.com/?user=MuhammadAzmiNurIman&theme=nightowl"/>
     </td>
   </tr>
