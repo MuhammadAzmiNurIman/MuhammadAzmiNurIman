@@ -1,68 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&text=Hi,%20I'm%20Muhammad%20Azmi%20Nur%20Iman&fontSize=40&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20%&descSize=20&descAlignY=70&section=header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
+ 
 I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang with a strong focus on backend development. I specialize in building RESTful APIs and backend systems using Laravel, with experience in developing scalable and efficient applications.
 
 I am passionate about creating clean architecture, optimizing performance, and designing systems that are maintainable and reliable. Currently, I am exploring system design and scalable backend architecture to enhance my development skills further.
 
-[![Mail Badge](https://img.shields.io/badge/-your_email@gmail.com-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-MuhammadAzmiNurIman-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadAzmiNurIman)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=white)](#)
 
-[![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman)
-[![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=Followers)](https://github.com/MuhammadAzmiNurIman)
+[![Mail Badge](https://img.shields.io/badge/-muhammadazminuriman5@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:muhammadazminuriman5@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@azmiii.ii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/azmiii.ii) 
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadazminuriman-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadazminuriman/) 
+[![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman)
+[![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=GitHub%20Followers)](https://github.com/MuhammadAzmiNurIman)
 
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
 
-###🚀 Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js)
+### Other Tech Stacks
 
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css3,bootstrap,tailwind,js,vite,nodejs,express,php,laravel,reactjs,prisma,mysql,postgres,supabase)
 
-###🧩 Other Tech Stacks
-![My Skills](https://skillicons.dev/icons?perline=8&i=html,css,tailwind,bootstrap,react,nodejs,express,python)
+### Tools
 
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
+<!--
 
-###🛠 Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+### Others
 
----
+![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
+-->
 
-📊 Statistics
+### Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=tokyonight&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=compact&theme=tokyonight" height="150"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=maroongold&show_icons=true&)
 
+<!---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=maroongold&card_width=470)
 
-🔥 Contribution Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=satriabahari&theme=maroongold)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=satriabahari&theme=maroongold" alt="GitHub Streak" /></a>
+--->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&card_width=495&langs_count=7&layout=compact&theme=maroongold)
 
-🎮 Contribution Game
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MuhammadAzmiNurIman&langs_count=7&layout=compact&theme=maroongold)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true">
-    <img src="https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman/blob/output/pacman-contribution-graph.svg?raw=true" width="700">
-  </picture>
-</p>
-
-🚀 Featured Projects
-
-- 🔹 Blog CMS (Laravel)  
-  https://github.com/MuhammadAzmiNurIman/BlogCMS_Day27  
-
-- 🔹 Incident Handling System  
-  https://github.com/MuhammadAzmiNurIman/Incident-Handling  
-
-- 🔹 Automation Puppeteer  
-  https://github.com/MuhammadAzmiNurIman/Automation-and-Puppeteer-Day-36  
-
-- 🔹 WebGIS Project  
-  https://github.com/MuhammadAzmiNurIman/PetaWebgis  
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
