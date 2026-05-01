@@ -61,12 +61,25 @@ I am passionate about creating clean architecture, optimizing performance, and d
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAzmiNurIman&layout=compact) -->
 
 ### Featured Project
-  <a href="https://github.com/MuhammadAzmiNurIman/govind">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
-  </a>
-  <a href="https://github.com/MuhammadAzmiNurIman/repo2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=repo2&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
-  </a>
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border:none; padding:0;">
+      <a href="https://govindabraenterprise.com/">
+        <img width="100%" src="https://image.thum.io/get/width/800/https://govindabraenterprise.com/" />
+      </a>
+    </td>
+    <td style="border:none; padding:0;">
+      <a href="https://github.com/MuhammadAzmiNurIman/govind">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&border_color=1f2937"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p>
+  🌐 <b>Govindabra Enterprise</b> — Company profile website with clean architecture and scalable backend system.
+</p>
 
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
