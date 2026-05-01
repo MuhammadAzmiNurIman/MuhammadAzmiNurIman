@@ -11,41 +11,36 @@ I am passionate about creating clean architecture, optimizing performance, and d
 [![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman)
 [![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=Followers)](https://github.com/MuhammadAzmiNurIman)
 
----
 
-### 🚀 Core Tech Stacks
+🚀 Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js)
 
----
 
-### 🧩 Other Tech Stacks
+🧩 Other Tech Stacks
 ![My Skills](https://skillicons.dev/icons?perline=8&i=html,css,tailwind,bootstrap,react,nodejs,express,python)
 
----
 
-### 🛠 Tools
+🛠 Tools
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
-### 📊 Statistics
+📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=tokyonight&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
 
-### 🔥 Contribution Activity
+🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-### 🎮 Contribution Game
+🎮 Contribution Game
 
 <p align="center">
   <picture>
@@ -55,9 +50,7 @@ I am passionate about creating clean architecture, optimizing performance, and d
   </picture>
 </p>
 
----
-
-### 🚀 Featured Projects
+🚀 Featured Projects
 
 - 🔹 Blog CMS (Laravel)  
   https://github.com/MuhammadAzmiNurIman/BlogCMS_Day27  
@@ -71,6 +64,5 @@ I am passionate about creating clean architecture, optimizing performance, and d
 - 🔹 WebGIS Project  
   https://github.com/MuhammadAzmiNurIman/PetaWebgis  
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
