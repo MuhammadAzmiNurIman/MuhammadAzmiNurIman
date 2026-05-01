@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 💻 I’m currently working on<br>Developing scalable RESTful APIs and backend systems using Laravel<br><br>👯 I’m looking to collaborate on<br>Backend & fullstack web projects, especially in real-world applications<br><br>🤝 I’m looking for help with<br>System design, clean architecture, and performance optimization<br><br>🌱 I’m currently learning<br>Backend scalability, API security, and modern web architecture<br><br>💬 Ask me about<br>Laravel, API development, MySQL, and integrating frontend with React<br><br>⚡ Fun fact<br>I love building systems that are not only functional, but also efficient and scalable
 
 
@@ -25,3 +25,4 @@
 </div>
 
 <hr/>
+](https://checkmygit.com/MuhammadAzmiNurIman?template=github&theme=dark)
