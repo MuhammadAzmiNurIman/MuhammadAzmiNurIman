@@ -64,41 +64,46 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/govind">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=govind&theme=tokyonight"/>
-      </a>
+    <td style="border:none; padding:15px; width:300px;">
+      <b>📦 Govind</b><br/>
+      <sub>Company profile website with Laravel backend</sub><br/><br/>
+      🟣 PHP &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/Incident-Handling">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight"/>
-      </a>
+
+    <td style="border:none; padding:15px; width:300px;">
+      <b>🛠️ Incident-Handling</b><br/>
+      <sub>Incident management system with reporting</sub><br/><br/>
+      🔴 Blade &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/PetaWebgis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight"/>
-      </a>
+
+    <td style="border:none; padding:15px; width:300px;">
+      <b>🗺️ PetaWebgis</b><br/>
+      <sub>Web-based GIS visualization system</sub><br/><br/>
+      🟠 HTML &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
   </tr>
 
   <tr>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/Automation-and-Puppeteer-Day-36">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight"/>
-      </a>
+    <td style="border:none; padding:15px;">
+      <b>🤖 Automation Puppeteer</b><br/>
+      <sub>Web automation using Puppeteer</sub><br/><br/>
+      🟡 JavaScript &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/coba">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=coba&theme=tokyonight"/>
-      </a>
+
+    <td style="border:none; padding:15px;">
+      <b>🧪 coba</b><br/>
+      <sub>Experimental development repo</sub><br/><br/>
+      ⚪ Unknown &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
-    <td style="border:none; padding:10px;">
-      <a href="https://github.com/MuhammadAzmiNurIman/hackathon2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=hackathon2&theme=tokyonight"/>
-      </a>
+
+    <td style="border:none; padding:15px;">
+      <b>🏆 hackathon2</b><br/>
+      <sub>Hackathon project implementation</sub><br/><br/>
+      ⚪ Unknown &nbsp; ⭐ 0 &nbsp; 🍴 0
     </td>
   </tr>
 </table>
+
 <!-- PACMAN AUTO DARK/LIGHT -->
 ### Contribution Game
 
