@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&text=Hi,%20I'm%20Muhammad%20Azmi%20Nur%20Iman&fontSize=40&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20%C%20%&descSize=20&descAlignY=70&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&text=Hi,%20I'm%20Muhammad%20Azmi%20Nur%20Iman&fontSize=40&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20%&descSize=20&descAlignY=70&section=header" />
 
 I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang with a strong focus on backend development. I specialize in building RESTful APIs and backend systems using Laravel, with experience in developing scalable and efficient applications.
 
