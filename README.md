@@ -1,72 +1,51 @@
-<!-- HERO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Muhammad+Azmi+Nur+Iman;Full+Stack+Developer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&text=Hi,%20I'm%20Muhammad%20Azmi%20Nur%20Iman&fontSize=40&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Backend%20Developer%20%7C%20Laravel%20Enthusiast&descSize=20&descAlignY=70&section=header" />
+
+I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang with a strong focus on backend development. I specialize in building RESTful APIs and backend systems using Laravel, with experience in developing scalable and efficient applications.
+
+I am passionate about creating clean architecture, optimizing performance, and designing systems that are maintainable and reliable. Currently, I am exploring system design and scalable backend architecture to enhance my development skills further.
+
+[![Mail Badge](https://img.shields.io/badge/-your_email@gmail.com-0d1117?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-MuhammadAzmiNurIman-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/MuhammadAzmiNurIman)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=white)](#)
+
+[![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman)
+[![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=Followers)](https://github.com/MuhammadAzmiNurIman)
+
+---
+
+### 🚀 Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js)
+
+---
+
+### 🧩 Other Tech Stacks
+![My Skills](https://skillicons.dev/icons?perline=8&i=html,css,tailwind,bootstrap,react,nodejs,express,python)
+
+---
+
+### 🛠 Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+---
+
+### 📊 Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&label=Profile+Views&color=0d1117&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAzmiNurIman&theme=tokyonight&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<br>
+---
 
-<!-- DASHBOARD -->
-<h2 align="center">📊 Dashboard</h2>
+### 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAzmiNurIman&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAzmiNurIman&theme=tokyonight&utcOffset=7" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAzmiNurIman&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAzmiNurIman&theme=tokyonight"/>
-</p>
+---
 
-<br>
-
-
-<!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-</p>
-
-<br>
-
-<!-- TOP LANG -->
-<h2 align="center">💻 Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAzmiNurIman&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
-</p>
-
-<br>
-
-<!-- PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=BlogCMS_Day27&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Incident-Handling&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=Automation-and-Puppeteer-Day-36&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuhammadAzmiNurIman&repo=PetaWebgis&theme=tokyonight" height="150"/>
-</p>
-
-<br>
-
-<!-- PACMAN AUTO DARK/LIGHT -->
-<h2 align="center">🎮 Contribution Game</h2>
+### 🎮 Contribution Game
 
 <p align="center">
   <picture>
@@ -76,23 +55,22 @@
   </picture>
 </p>
 
-<br>
+---
 
-<!-- CONTACT -->
-<h2 align="center">📫 Connect</h2>
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MuhammadAzmiNurIman">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+- 🔹 Blog CMS (Laravel)  
+  https://github.com/MuhammadAzmiNurIman/BlogCMS_Day27  
 
-<br>
+- 🔹 Incident Handling System  
+  https://github.com/MuhammadAzmiNurIman/Incident-Handling  
 
+- 🔹 Automation Puppeteer  
+  https://github.com/MuhammadAzmiNurIman/Automation-and-Puppeteer-Day-36  
 
+- 🔹 WebGIS Project  
+  https://github.com/MuhammadAzmiNurIman/PetaWebgis  
 
+---
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=100&section=footer" />
