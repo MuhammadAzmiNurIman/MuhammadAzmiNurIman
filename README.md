@@ -5,7 +5,7 @@ I'm Muhammad Azmi Nur Iman, a fresh graduate from Universitas Negeri Malang with
 I am passionate about creating clean architecture, optimizing performance, and designing systems that are maintainable and reliable. Currently, I am exploring system design and scalable backend architecture to enhance my development skills further.
 
 
-[![Mail Badge](https://img.shields.io/badge/-muhammadazminuriman5@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:muhammadazminuriman5@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-muhammad.azmi.iman@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:muhammadazminuriman5@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@azmiii.ii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/azmiii.ii) 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadazminuriman-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadazminuriman/) 
 [![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman)
