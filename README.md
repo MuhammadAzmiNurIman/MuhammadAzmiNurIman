@@ -7,16 +7,17 @@ I am passionate about creating clean architecture, optimizing performance, and d
 
 [![Mail Badge](https://img.shields.io/badge/-muhammad.azmi.iman@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:muhammadazminuriman5@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@azmiii.ii-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/azmiii.ii) 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadazminuriman-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadazminuriman/) 
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadazminuriman-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadazminuriman/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadazminuriman.my.id-0ea5e9?style=flat&logo=googlechrome&logoColor=white)](https://muhammadazminuriman.my.id)
 [![](https://komarev.com/ghpvc/?username=MuhammadAzmiNurIman&color=blue&label=Profile%20Views)](https://github.com/MuhammadAzmiNurIman/MuhammadAzmiNurIman)
 [![](https://img.shields.io/github/followers/MuhammadAzmiNurIman?label=GitHub%20Followers)](https://github.com/MuhammadAzmiNurIman)
 
 ### Core Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,react,ts,python,flask,mysql)
 
 ### Other Tech Stacks
 
-![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,tailwind,js,vite,nodejs,express,php,laravel,prisma,mysql,postgres)
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,tailwind,js,vite,nodejs,express,prisma,mysql,postgres,docker,redis,linux,CI/CD)
 
 ### Tools
 
